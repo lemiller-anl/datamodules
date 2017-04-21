@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 This is a basic nonsense website
 
-http://www.yahoo.com
+[http://www.yahoo.com] (http://wwww.yahoo.com)
